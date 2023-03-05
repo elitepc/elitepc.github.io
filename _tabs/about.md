@@ -42,6 +42,6 @@ As you may have noticed, I enjoy playing games, working on personal projects, an
 In this last point, I've been doing some volunteering for a while at a local food bank-like association.
 
 I'm a curious learner, and **I hope to encourage you to be one too**. Feel free to contact me through Twitter or Email if 
-you have any questions, suggestions, insights to share.
+you have any questions, suggestions or insights to share.
 
 Thank you for visiting, and I hope you find my blog helpful and thought-provoking!
