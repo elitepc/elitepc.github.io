@@ -2,6 +2,8 @@
 layout: post
 title: Blog Mission Statement
 date: 2023-03-05 21:53 +0000
+tags: meta
+categories: meta
 ---
 
 I believe that software engineering is all about creating systems that serve people. 

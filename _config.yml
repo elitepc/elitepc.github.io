@@ -39,7 +39,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Pedro Caseiro
-#   email:              # change to your email address
+  email: pessoal@pedrocaseiro.pt              # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/pedrocaseiro7      # change to your twitter homepage
@@ -199,9 +199,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-copyright:
-  # Shown at the bottom of the post
-  license:
-    template:
-    name:
-    link:
+gems:
+  - jekyll-email-protect
