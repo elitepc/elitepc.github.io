@@ -25,7 +25,7 @@ community. We were expelled from multiple data centers due to being targeted!
 
 From **2011 onwards**, I started investing in **my own infrastructure, including VPS, Dedicated Servers, and even 
 collocation in the Netherlands**! I hosted my own gaming servers, my forums, my chat communities, and then 
-later **started my own web hosting business**, which I discovered was a very saturated market.
+later **started my own web hosting business**, which I later discovered was a very saturated market.
 
 In **2014**, I **started working full-time in software engineering** for a company and then started freelancing. After a while, 
 I figured that software engineering was not only about "making things work" and decided it was a good idea to work 
