@@ -33,7 +33,7 @@ github:
   username: elitepc             # change to your github username
 
 twitter:
-  username: pedrocaseiro7            # change to your twitter username
+  username: PedroCaseiroPT            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -42,7 +42,7 @@ social:
   email: pessoal@pedrocaseiro.pt              # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/pedrocaseiro7      # change to your twitter homepage
+    - https://twitter.com/PedroCaseiroPT      # change to your twitter homepage
     - https://github.com/elitepc       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
