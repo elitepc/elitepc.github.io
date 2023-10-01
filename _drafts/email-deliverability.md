@@ -9,7 +9,7 @@ draft from a previous post
 
 * 17/01/2020
 
-On January 17th a client of mine complained that they couldn't send email to some receipients in a recently configured cloud server.
+On January 17th a client of mine complained that they couldn't send email to some recipients in a recently configured cloud server.
 
 On a closer inspection the problem was limited to sending inboxes that were managed by Office 365.
 
