@@ -2,6 +2,8 @@
 layout: post
 title: My observations on the correlation of pay and work efficiency
 date: 2023-03-04 18:01 +0000
+tags:   
+categories:
 ---
 
 - more pay, more work efficiency
