@@ -9,7 +9,7 @@ categories: process
 In this post I'm sharing some tips that helped me manage my time better.
 
 Having worked and studied full-time at the same time for a few years, I've learned that it's all about trade-offs.
-We only have 24 hours in a day. After working for 8 hours, going to school for 6, plus lunch, dinner, commute left me with little time to manage that I learned to prioritize.
+We only have 24 hours in a day. After working for 8 hours, going to school for 6, plus lunch, dinner, commute and so on, life left me with little time to manage that I learned to prioritize.
 
 Recently, in my professional life I felt again that I had too many things to do and not enough time to do them.
 
