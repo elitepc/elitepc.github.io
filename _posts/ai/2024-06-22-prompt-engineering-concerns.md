@@ -63,6 +63,6 @@ It's very clear that most engineers haven't had the chance to integrate LLMs in 
 It's also very clear that most product managers have the tendency to think that a new "fad" is going to solve all their problems.
 
 I'm more in the middle. If you can work with big models, maybe spending more than a day on prompt engineering for most use cases is probably overkill.
-For smaller models, it's probably worth the effort, but tha really has to justify the cost.
+For smaller models, it's probably worth the effort, but that really has to justify the cost.
 
 The approach I'd recommend would be based in agile. Start with a "good enough" prompt. Release it. Gather feedback. Iterate if needed.
