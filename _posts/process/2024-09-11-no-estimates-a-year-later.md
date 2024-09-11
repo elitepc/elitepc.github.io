@@ -49,4 +49,4 @@ We understand that scope changes and setbacks happen, and we're more open to ext
 - Make sure invisible work is kept to a minimum. Being by creating more subtasks, communicating on stand-ups or whatever works for you, just make sure people don't think you're not working, otherwise there's a mismatch in perception and reality and tensions can be created where they aren't needed
 - Make sure you have a healthy backlog, it's easy to fall into the trap of refining 10 tickets that are 30 minutes each and no one noticed and in no time the backlog can run dry
 
-Mandatory watch https://www.youtube.com/watch?v=QVBlnCTu9Ms from Allen Holub
+Mandatory watch from Allen Holub [https://www.youtube.com/watch?v=QVBlnCTu9Ms](https://www.youtube.com/watch?v=QVBlnCTu9Ms)]
