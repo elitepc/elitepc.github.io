@@ -22,7 +22,7 @@ We also had another constraint of BE and FE people being entirely separated as s
 - if a task is 1 SP, and it has been more than 2 days, it would raise red flags. And although there was no real repercussion, seeing that we work with a very motivated team, that led to developers always pushing themselves over the limit, leading to extreme exhaustion
 - if a task is 15 minutes, then what can we do with the rest of the time? we shouldn't plan more than 20 SP per sprint (we usually just pulled another one)
 - the story points don't account for other time hogs, usual ceremonies, unexpected meetings, unexpected investigations, tasks needing more collaboration than expected
-- indecisions on what would happen with a task that was both BE and FE and would take 3 days each? 1 task for 2 SP? 2 tasks for 2 SP, but we kind of knew that it wouldn't fully fill in the 4 total SP? How do we account for integration time of the 2 tasks if one of them gets cut out off the sprint?
+- what would happen with a task that was both BE and FE and would take 3 days each? 1 task for 2 SP? 2 tasks for 2 SP, but we kind of knew that it wouldn't fully fill in the 4 total SP? How do we account for integration time of the 2 tasks if one of them gets cut out off the sprint?
 - time spent trying to estimate better was a pointless exercise. We'd beat ourselves down in retros for estimating badly. In retrospect, basically saying that we didn't know how much time it would take to do something we didn't know the exact scope of. Doesn't sound very logical, but the feelings were real
 - the decision was always looming, it's Thursday afternoon, this is not near completion, should I sacrifice personal time? Tests? Code quality? Edge cases? Sprint goals? Meetings? Colleagues asking for help? Other responsibilities?
 - PR reviews would extend the time for delivery and were another source of invisible work, especially PR reviews from a previous sprint
@@ -39,7 +39,7 @@ We go into refinement sessions, let the product team know that we could split up
 The top of the backlog is always what gets picked up, no one cares if it was just reshuffled as long as the next item is refined. 
 We understand that scope changes and setbacks happen, and we're more open to extending tasks that need more time instead of compromising on everything else. 
 
-## Tricks to get it working in an healthy manner
+## Tricks to get it working in a healthy manner
 
 - Make sure everyone is onboard, otherwise requests for time estimates still come
 - Make sure the product team can manage expectations in a way that says "for 2 months we'll be working on this topic + 3 other topics" instead of specifying the exact tasks
