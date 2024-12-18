@@ -45,7 +45,7 @@ From my observations social media is also affecting a lot of these decisions. Ec
 - Understand who is asking for adoption. If it's the CEO, maybe sales or funding are more important than actual reliability, if it's product maybe the WOW factor is more important. Try to understand why they are asking for this type of technology in the first place and what would happen if you delivered something with the same kind of results but without the word AI in it
 - Be on the lookout for anyone that promises 100% correctness based on technology that's not designed to be 100% accurate. Make it clear to everyone and document it that those numbers are most likely irrealistic if we don't want an infinite running project
 - Make sure the people asking or implementing these systems understand the edge cases of the problem
-- When getting advice on the topic, or even asked to implement it, try to access where they fit into the Dunning–Kruger scale, just like a junior telling you to use MongoDB because it's webscale
+- When getting advice on the topic, or even asked to implement it, try to assess where they fit into the Dunning–Kruger scale, just like a junior telling you to use MongoDB because it's webscale
 - Management may push for more AI because there's a good incentive to do so, do more things, faster, with higher reliability, or so we've been sold on - similar to "I want the body without the gym", "I want the money without the work"
 - Make sure that the ones defining the architecture will suffer the consequences (good or bad) of their decisions, otherwise there's no incentive of making it right
 - If product requests specific performance targets that they have data to back it up, always measure against that data
