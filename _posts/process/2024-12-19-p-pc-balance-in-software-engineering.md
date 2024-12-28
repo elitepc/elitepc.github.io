@@ -3,7 +3,7 @@ layout: post
 title: P/PC Balance in software engineering
 date: 2024-12-17 12:01 +0000
 tags: books balance habits software engineering
-categories: ai
+categories: process
 ---
 
 When re-reading the book 7 Habits of Highly Effective People describing this Production (P) vs Production Capability (PC) balance it made me think of if in the context of Software Engineering.
