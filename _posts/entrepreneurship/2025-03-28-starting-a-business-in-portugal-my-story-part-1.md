@@ -102,6 +102,6 @@ One thing is certain, I wasn't expecting to be dealing with so many "small" thin
 
 So many things that I didn't give a second thought on who and how it was done... sound systems, spending a day with a plumber dealing with literal shit to unclog a pump, installing cameras, dealing with wifi, alarm, social media, replying to potential clients, scheduling meetings with influential people, building decoration, transporting 3m+ stuff, dealing with people that expect you to be in 2 places at once, unloading material, buying tools and equipment, getting access to wholesale, banks, accounting, orders, planning the space, merch, regulations, public entities.
 
-One thing is certain, and Codie gets it right: Grit. Be prepared to have it or develop it, otherwise it's just to easy to just give up.
+One thing is certain, Angela Duckworth and Codie get it right: Grit. Be prepared to have it or develop it, otherwise it's just to easy to just give up.
 
 16h work days. That's my life right now. Heading off to the business now, hoping to sharing more soon.
